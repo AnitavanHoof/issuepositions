@@ -29,7 +29,7 @@ So, the question is "What do these sentences tell us about the position of [Acto
 The first difficulty is to determine if a text actually contains a stance or not. Some decisions are made here. For example:
 
 - If the sentence introduces a person, or involves a person being appointed, we code it as 'no stance' even if the person has a function related to a dimension (police commissioner etc).
-- A statement about how a specific party should behave, e.g. by alculating budgetary consequences or being more transparent, we code it as 'no stance'
+- A statement about how a specific party should behave, e.g. by calculating budgetary consequences or being more transparent, we code it as 'no stance'
 - Statements about who wants to form a coalition with whom, or who wants to be prime minister, we code as 'no stance'
 - If you need a substantial amount of existing knowledge about politics to understand the dimension, we code as 'no stance'. For example, being in favour of 'expansion' without making clear that this is expansion of EU. 
 - If a topic is mentioned but it is clearly talking about the situation in a foreign country, we code is as 'no stance'.
